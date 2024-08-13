@@ -1,1 +1,3 @@
-My todo list: - empty. Good girl.
+# My todo list:
+
+- empty. Good girl.
